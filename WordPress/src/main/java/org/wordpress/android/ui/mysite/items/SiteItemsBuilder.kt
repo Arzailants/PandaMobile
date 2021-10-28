@@ -55,16 +55,18 @@ class SiteItemsBuilder @Inject constructor(
                 ),
                 siteCategoryItemBuilder.buildLookAndFeelHeaderIfAvailable(params.site),
                 siteListItemBuilder.buildThemesItemIfAvailable(params.site, params.onClick),
-                siteCategoryItemBuilder.buildConfigurationHeaderIfAvailable(params.site),
+
+                // hide configuration, plugin, domain, setting
+//                siteCategoryItemBuilder.buildConfigurationHeaderIfAvailable(params.site),
                 siteListItemBuilder.buildPeopleItemIfAvailable(params.site, params.onClick),
-                siteListItemBuilder.buildPluginItemIfAvailable(params.site, params.onClick),
+//                siteListItemBuilder.buildPluginItemIfAvailable(params.site, params.onClick),
                 siteListItemBuilder.buildShareItemIfAvailable(
                         params.site,
                         params.onClick,
                         showEnablePostSharingFocusPoint
                 ),
-                siteListItemBuilder.buildDomainsItemIfAvailable(params.site, params.onClick),
-                siteListItemBuilder.buildSiteSettingsItemIfAvailable(params.site, params.onClick),
+//                siteListItemBuilder.buildDomainsItemIfAvailable(params.site, params.onClick),
+//                siteListItemBuilder.buildSiteSettingsItemIfAvailable(params.site, params.onClick),
                 CategoryHeaderItem(UiStringRes(R.string.my_site_header_external)),
                 ListItem(
                         R.drawable.ic_globe_white_24dp,
