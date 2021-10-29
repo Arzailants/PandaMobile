@@ -619,11 +619,11 @@ Language: id
     <string name="login_prologue_fifth_subtitle_one">Pamela Nguyen</string>
     <string name="login_prologue_second_subtitle_two">Saya sangat terinspirasi oleh karya fotografer Cameron Karsten. Saya akan mencoba teknik ini selanjutnya</string>
     <string name="login_prologue_second_subtitle_one">Dapatkan Inspirasi</string>
-    <string name="login_prologue_title_fourth">Perhatikan audiens Anda tumbuh dengan analisis mendalam.</string>
-    <string name="login_prologue_title_second">Dengan editor yang hebat, Anda dapat langsung menerbitkan pos.</string>
-    <string name="login_prologue_title_first">Selamat datang di pembuat situs web terpopuler di dunia.</string>
-    <string name="login_prologue_title_third">Lihat komentar dan pemberitahuan secara real-time.</string>
-    <string name="login_prologue_title_fifth">Ikuti situs favorit Anda dan temukan blog-blog baru.</string>
+    <string name="login_prologue_title_fourth">Dengan sekali postingan dapat langsung dilihat banyak orang.</string>
+    <string name="login_prologue_title_second">Kemudahan dalam menulis di Panda Mobile.</string>
+    <string name="login_prologue_title_first">Selamat datang di Panda Mobile.</string>
+    <string name="login_prologue_title_third">Menampilkan Postingan yang anda buat.</string>
+    <string name="login_prologue_title_fifth">Memberikan komentar serta melihat pemberitahuan secara real-time.</string>
     <string name="media_loading_failed">Gagal memuat media</string>
     <string name="reader_discover_recommended_blogs_header">Rekomendasi situs</string>
     <string name="gutenberg_native_we_are_working_hard_to_add_more_blocks_with_each_release">Kami berusaha keras untuk menambahkan banyak blok setiap rilis.</string>
