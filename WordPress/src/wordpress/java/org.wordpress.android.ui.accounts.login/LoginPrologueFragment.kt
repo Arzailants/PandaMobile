@@ -50,12 +50,12 @@ class LoginPrologueFragment : Fragment(R.layout.login_signup_screen) {
         val binding = LoginSignupScreenBinding.bind(view)
 
         with(binding.bottomButtonsContainer) {
-            continueWithWpcomButton.setText(R.string.continue_with_wpcom)
+//            continueWithWpcomButton.setText(R.string.continue_with_wpcom)
 
-            continueWithWpcomButton.setOnClickListener {
-                unifiedLoginTracker.trackClick(Click.CONTINUE_WITH_WORDPRESS_COM)
-                loginPrologueListener.showEmailLoginScreen()
-            }
+//            continueWithWpcomButton.setOnClickListener {
+//                unifiedLoginTracker.trackClick(Click.CONTINUE_WITH_WORDPRESS_COM)
+//                loginPrologueListener.showEmailLoginScreen()
+//            }
 
             enterYourSiteAddressButton.setOnClickListener {
                 unifiedLoginTracker.trackClick(Click.LOGIN_WITH_SITE_ADDRESS)

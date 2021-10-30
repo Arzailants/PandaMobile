@@ -933,7 +933,7 @@
     <string name="debug_cookies_cookie_value_hint" translatable="false">cookie_value</string>
 
     <!-- stats -->
-    <string name="stats">Stats</string>
+    <string name="stats">Stats Jetpack</string>
     <string name="stats_jetpack_connection_setup_info">To use Stats on your WordPress site, you\'ll need to install the Jetpack plugin.</string>
     <string name="stats_jetpack_connection_setup">Install Jetpack</string>
     <string name="stats_jetpack_connection_faq">Jetpack FAQ</string>
