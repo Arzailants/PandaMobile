@@ -8,7 +8,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:123:android:abc",
         "android_client_info": {
-          "package_name": "org.wordpress.android"
+          "package_name": "com.pandamobile.android"
         }
       },
       "oauth_client": [
@@ -20,7 +20,7 @@
           "client_id": "",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.wordpress.android",
+            "package_name": "com.pandamobile.android",
             "certificate_hash": ""
           }
         }
@@ -50,7 +50,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:123:android:abc",
         "android_client_info": {
-          "package_name": "org.wordpress.android.prealpha"
+          "package_name": "com.pandamobile.android.prealpha"
         }
       },
       "oauth_client": [
@@ -62,7 +62,7 @@
           "client_id": "",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.wordpress.android.prealpha",
+            "package_name": "com.pandamobile.android.prealpha",
             "certificate_hash": ""
           }
         }
@@ -92,7 +92,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:123:android:abc",
         "android_client_info": {
-          "package_name": "org.wordpress.android.beta"
+          "package_name": "com.pandamobile.android.beta"
         }
       },
       "oauth_client": [
@@ -104,7 +104,7 @@
           "client_id": "",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.wordpress.android.beta",
+            "package_name": "com.pandamobile.android.beta",
             "certificate_hash": ""
           }
         }

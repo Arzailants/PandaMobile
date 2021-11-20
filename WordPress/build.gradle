@@ -83,7 +83,7 @@ android {
     compileSdkVersion rootProject.compileSdkVersion
 
     defaultConfig {
-        applicationId "org.wordpress.android"
+        applicationId "com.pandamobile.android"
         archivesBaseName = "$applicationId"
 
         minSdkVersion rootProject.minSdkVersion
@@ -136,7 +136,7 @@ android {
             isDefault true
             dimension "app"
 
-            applicationId "org.wordpress.android"
+            applicationId "com.pandamobile.android"
             buildConfigField "boolean", "IS_JETPACK_APP", "false"
             buildConfigField "String", "TRACKS_EVENT_PREFIX", '"wpandroid_"'
             buildConfigField "String", "PUSH_NOTIFICATIONS_APP_KEY", '"org.wordpress.android"'
@@ -186,7 +186,7 @@ android {
 
         jalapeno { // Pre-Alpha version, used for PR builds, can be installed along release, alpha, beta, dev versions
             isDefault true
-            applicationIdSuffix ".prealpha"
+            applicationIdSuffix ""
             dimension "buildType"
 
             versionName project.findProperty("installableBuildVersionName") ?: versionProperties.getProperty("alpha.versionName")
