@@ -1062,9 +1062,10 @@ public class WPMainActivity extends LocaleAwareActivity implements
                                 public void onClick(View v) {
                                     UploadUtils.publishPost(WPMainActivity.this, post, site, mDispatcher);
                                 }
-                            },
-                            isFirstTimePublishing -> mBloggingRemindersViewModel
-                                    .onPublishingPost(site.getId(), isFirstTimePublishing)
+                            }
+//                            ,
+//                            isFirstTimePublishing -> mBloggingRemindersViewModel
+//                                    .onPublishingPost(site.getId(), isFirstTimePublishing)
                     );
                 }
                 break;
