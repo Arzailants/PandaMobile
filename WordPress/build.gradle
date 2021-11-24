@@ -595,4 +595,4 @@ if (project.hasProperty("debugStoreFile")) {
 
 // Keep this at the bottom (https://stackoverflow.com/a/37565535)
 apply plugin: 'com.google.gms.google-services'
-apply plugin: 'io.sentry.android.gradle'
+//apply plugin: 'io.sentry.android.gradle'
