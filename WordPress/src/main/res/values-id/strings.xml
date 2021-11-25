@@ -622,7 +622,7 @@ Language: id
     <string name="login_prologue_title_fourth">Dengan sekali postingan dapat langsung dilihat banyak orang.</string>
     <string name="login_prologue_title_second">Kemudahan dalam menulis di Panda Mobile.</string>
     <string name="login_prologue_title_first">Selamat datang di Panda Mobile.</string>
-    <string name="login_prologue_title_third">Menampilkan Postingan yang anda buat.</string>
+    <string name="login_prologue_title_third">Menampilkan Postingan yang Anda buat.</string>
     <string name="login_prologue_title_fifth">Memberikan komentar serta melihat pemberitahuan secara real-time.</string>
     <string name="media_loading_failed">Gagal memuat media</string>
     <string name="reader_discover_recommended_blogs_header">Rekomendasi situs</string>
@@ -1940,7 +1940,7 @@ Language: id
     <string name="dlg_saving_tag">Menyimpan</string>
     <string name="dlg_deleting_tag">Menghapus</string>
     <string name="dlg_confirm_delete_tag">Hapus tag \'%s\' secara permanen?</string>
-    <string name="my_site_btn_site_pages">Halaman</string>
+    <string name="my_site_btn_site_pages">Laman</string>
     <string name="error_tag_exists">Tag dengan nama ini sudah ada.</string>
     <string name="add_new_tag">Tambah Tag Baru</string>
     <string name="tag_description_hint">Deskripsi</string>
@@ -2934,7 +2934,7 @@ Language: id
     <string name="username">Nama pengguna</string>
     <string name="reader">Pembaca</string>
     <string name="no_network_title">Tidak ada jaringan</string>
-    <string name="pages">Halaman</string>
+    <string name="pages">Laman</string>
     <string name="posts">Tulisan</string>
     <string name="anonymous">Anonim</string>
     <string name="ok">OK</string>
