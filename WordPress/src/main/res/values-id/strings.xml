@@ -2916,7 +2916,7 @@ Language: id
     <string name="stats_timeframe_days">Hari</string>
     <string name="stats_timeframe_weeks">Minggu</string>
     <string name="stats_timeframe_months">Bulan</string>
-    <string name="stats">Statistik Jetpack</string>
+    <string name="stats">Statistik</string>
     <string name="manage">Atur</string>
     <string name="discard">Batal</string>
     <string name="new_notifications">%d notifikasi baru</string>
